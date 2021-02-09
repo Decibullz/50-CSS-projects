@@ -9,4 +9,4 @@
 
 # See Project Sample Below
 
-<!-- ![sample](./images/filename.gif) -->
+<!-- ![sample](./images/css-project-.gif) -->
