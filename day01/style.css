@@ -5,6 +5,7 @@
 }
 
 body{
+    background-color: #000;
     font-family: 'Muli', 'sans-serif';
     display: flex;
     align-items: center;
@@ -23,6 +24,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
+    border: 1px solid #fff;
     border-radius: 50px;
     color: #fff;
     cursor: pointer;
@@ -46,6 +48,7 @@ body{
 }
 .panel.active h3{
     opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
 }
 
 @media(max-width: 480px){
