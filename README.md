@@ -10,3 +10,5 @@
 ![Project 4](./project04/images/css-project-4.gif)
 ## Project 5 - Blurry Loading
 ![Project 5](./project05/images/css-project-5.gif)
+## Project 6 - Scroll Animation
+![Project 6](./project06/images/css-project-6.gif)
