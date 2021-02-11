@@ -12,3 +12,5 @@
 ![Project 5](./project05/images/css-project-5.gif)
 ## Project 6 - Scroll Animation
 ![Project 6](./project06/images/css-project-6.gif)
+## Project 7 - Split Landing Page
+![Project 7](./project07/images/css-project-7.gif)
