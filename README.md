@@ -8,3 +8,5 @@
 ![Project 3](./project03/images/css-project-3.gif)
 ## Project 4 - Hidden Search 
 ![Project 4](./project04/images/css-project-4.gif)
+## Project 5 - Blurry Loading
+![Project 5](./project05/images/css-project-5.gif)
