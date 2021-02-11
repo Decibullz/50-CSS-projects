@@ -1,4 +1,4 @@
-# Repo to display 50 different CSS projects
+# Repo to display 50+ different CSS projects
 
 ## Project 1 - Expanding Cards
 ![Project 1](./project01/images/css-project-1.gif)
