@@ -14,3 +14,5 @@
 ![Project 6](./project06/images/css-project-6.gif)
 ## Project 7 - Split Landing Page
 ![Project 7](./project07/images/css-project-7.gif)
+## Project 8 - Form Input Wave
+![Project 8](./project08/images/css-project-8.gif)
