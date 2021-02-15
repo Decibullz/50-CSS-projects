@@ -1,6 +1,6 @@
-# Project 
+# Form Input Wave
 
-
+Poject built to expand CSS knowlege by taking advantage of the transform,transition, and trasition-delay properties
 
 ### Built With:
 * HTML 5
@@ -9,4 +9,4 @@
 
 # See Project Sample Below
 
-<!-- ![sample](./images/css-project-.gif) -->
+![sample](./images/css-project-8.gif)
