@@ -10,4 +10,6 @@ Poject built to expand CSS knowlege
 
 # See Project Sample Below
 
+Note: gif does not play sound
+
 ![sample](./images/css-project-9.gif)
