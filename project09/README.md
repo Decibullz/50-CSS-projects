@@ -1,5 +1,6 @@
-# Project 
+# Sound Board
 
+Poject built to expand CSS knowlege
 
 
 ### Built With:
@@ -9,4 +10,4 @@
 
 # See Project Sample Below
 
-<!-- ![sample](./images/css-project-.gif) -->
+![sample](./images/css-project-9.gif)
