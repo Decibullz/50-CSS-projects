@@ -19,3 +19,5 @@
 ## Project 9 - Sound Board
 Note: Gif does not play sound
 ![Project 9](./project09/images/css-project-9.gif)
+## Project 10 - Dad Jokes
+![Project 10](./project10/images/css-project-10.gif)
